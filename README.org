@@ -1,6 +1,6 @@
 #+OPTIONS: tex:t
 
-$\sum_i \frac{x}{y}$
+\Sum$_i$ \frac{x}{y}
 
 $$\sum_i \frac{x}{y}$$
 
