@@ -1,3 +1,4 @@
+#+OPTIONS: tex:t
 
 $\sum_i \frac{x}{y}$
 
