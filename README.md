@@ -1,4 +1,5 @@
-#+OPTIONS: tex:t
+
+\lambda \Sigma
 
 $\sum_{i,k}$ \frac{x}{y}
 
